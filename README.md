@@ -113,6 +113,10 @@ kubectl get deployment -n kube-system aws-load-balancer-controller
 ## Conclusion
 By following these steps, you have successfully deployed a 2048 game application on Amazon EKS with Fargate, integrating AWS Load Balancer Controller for ingress management and securing the setup with a Kubernetes service account associated with an IAM role. This demonstrates the powerful capabilities of orchestrating containerized applications using Kubernetes in the AWS ecosystem. Continue exploring AWS EKS to unlock further potential and possibilities.
 
+## Reference
+I have completed this project with the help of Abishek veeramalla
+Link for his video to complete this project is- https://www.youtube.com/watch?v=RRCrY12VY_s
+
 
 
 
