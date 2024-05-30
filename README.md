@@ -10,6 +10,4 @@ This guide provides step-by-step instructions to deploy a 2048 game sample appli
 ## Step-by-Step Instructions
 ### 1. Create an EKS Cluster
 Create an EKS cluster named test-cluster in the us-east-2 region using Fargate:
-'''
-eksctl create cluster --name test-cluster --region us-east-2 --fargate
-'''
+'eksctl create cluster --name test-cluster --region us-east-2 --fargate'
